@@ -1,1 +1,1 @@
-# production-django-template
+# fast-django-template
