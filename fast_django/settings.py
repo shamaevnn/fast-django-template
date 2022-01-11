@@ -70,7 +70,7 @@ INTERNAL_IPS = [
     # ...
 ]
 
-ROOT_URLCONF = 'prod_django.urls'
+ROOT_URLCONF = 'fast_django.urls'
 
 TEMPLATES = [
     {
@@ -88,8 +88,8 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'prod_django.wsgi.application'
-ASGI_APPLICATION = 'prod_django.asgi.application'
+WSGI_APPLICATION = 'fast_django.wsgi.application'
+ASGI_APPLICATION = 'fast_django.asgi.application'
 
 
 # Database
